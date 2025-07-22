@@ -36,8 +36,8 @@ Este jogo foi criado com fins **didáticos**, ideal para quem está iniciando na
 
 ## 🧩 Estrutura do Projeto
 
-- `jogo-da-forca.alg` → Arquivo com o código em Portugol
-- `partitura_encerramento.pdf` → PDF com a música tocada no encerramento
+- `jogo-da-forca-em-portugol.por` → Arquivo com o código em Portugol
+- `tema-original-jogo-da-forca.pdf` → PDF com a música tocada no encerramento
 - `README.md` → Este arquivo
 
 ---
